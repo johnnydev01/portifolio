@@ -1,5 +1,6 @@
 
 export interface IKnowledge {
   src: string;
-  alt: string
+  alt: string;
+  title: string;
 }
