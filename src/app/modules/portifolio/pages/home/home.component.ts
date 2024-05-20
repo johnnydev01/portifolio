@@ -11,7 +11,7 @@ import { ProjectsComponent } from '../../components/projects/projects.component'
     HeaderComponent,
     KnowledgeComponent,
     ExpiriencesComponent,
-    ProjectsComponent
+    ProjectsComponent,
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.scss'
