@@ -50,12 +50,26 @@ export class ProjectsComponent {
       alt: 'Projeto Character Marvel api',
       title: 'Marvel Character',
       width: '100px',
-      height: '51px',
+      height: '100px',
       description: `<p>Desafio para usar a api da Marvel para operações simples de listagem de dados, busca e autenticação</p>`,
       links: [
         {
           name: 'Conheça o site',
           href: 'https://characters-challenge.web.app/'
+        }
+      ]
+    },
+    {
+      src: 'https://avatars.githubusercontent.com/u/16628445?s=200&v=4',
+      alt: 'Projeto NgRx Signals',
+      title: 'Angular NgRx Signal Store Crash Course',
+      width: '100px',
+      height: '100px',
+      description: `<p>Projeto de TODO que explora operações básicas de CRUD e Filter usando Angular Signals e NgRx Signals</p>`,
+      links: [
+        {
+          name: 'Conheça o site de TODO',
+          href: 'https://ngrx-signals.vercel.app/'
         }
       ]
     },
