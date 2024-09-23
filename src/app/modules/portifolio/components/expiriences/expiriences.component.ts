@@ -13,50 +13,41 @@ export class ExpiriencesComponent {
   public arrayExpiriences = signal<IExpiriences[]>([
     {
       summary: {
-        strong: 'Front-End Pleno',
+        strong: 'Desenvolvedor Front-End',
         p: 'MJV | Fev 2023 - Abr 2024',
       },
       text: `<p>Durante o período na MJV, prestando serviço no Santander First, atuei como desenvolvedor Front-end Angular Pleno.
       As principais atividades foram criação de novas features, Aplicação de performance, migração de versão de aplicações angular, padronização de commits e
-      automação no versionamento da aplicação, aumento de cobertura de vários projos para 80%</p>`
+      automação no versionamento da aplicação, aumento de cobertura de testes unitários em vários projetosde 0 para 80%</p>`
     },
     {
       summary: {
-        strong: 'Front-End Pleno',
+        strong: 'Desenvolvedor Front-End',
         p: 'Accelera Technologies | Set 2022 - Fev 2023',
 
       },
       text: `<p>No período que trabalhei na Accelera, atuei como desenvolvedor Front-end Angular Pleno.
       As principais atividades foram criação de telas com base no protótipo, criação de componentes genéricos,
-      desenvolvimento responsivo de commit, integração de serviços.</p>`
+      desenvolvimento responsivo de telas, integração de serviços.</p>`
     },
     {
       summary: {
-        strong: 'Analista de sistemas Pleno',
-        p: 'GFT | Nov 2021 - Ago 2022',
-
-      },
-      text: `<p>Durante o período na GFT, prestando serviço no Santander First, atuei como analista de sistemas Pleno.
-      As principais atividades foram criação de novas telas, integração de serviços, desenvolvimento responsivo</p>`
-    },
-    {
-      summary: {
-        strong: 'Analista de sistemas JR',
+        strong: 'Desenvolvedor Front-End',
         p: 'NTT DATA | Jul 2020 - Out 2021',
 
       },
       text: `<p>Quando trabalhei na NTT DATA, atuei em três projetos em diferentes clientes, no primeiro no Santander Caceis, e outros
-      dois no Bradesco, como analista de sistemas JR. As principais atividades foram criação de telas com base no protótipo,
+      dois no Bradesco, como desenvolvedor Front-End Angular. As principais atividades foram criação de telas com base no protótipo,
       integração de serviços, validação de formulários, criação de componentes genéricos, correções de bugs.</p>`
     },
     {
       summary: {
-        strong: 'Analista programador JR',
+        strong: 'Desenvolvedor Front-End',
         p: 'Prime IT Solutions | Set 2019 - Jun 2020',
 
       },
-      text: `<p>Em minha jornada como analista programador JR,  direcionei meu foco para o Angular. Nesse período na Prime, trabalhei
-      como um Especialista que contribuiu muito para meu desenvolvimento profissional. As principais atividades foram criação de telas com base
+      text: `<p>Em minha jornada como desenvolvedor Front-End JR,  direcionei meu foco para o Angular. Nesse período na Prime, trabalhei
+      com um Especialista que contribuiu muito para meu desenvolvimento profissional. As principais atividades foram criação de telas com base
       no protótipo, integração de serviços, validação de formulários, testes unitário, correções de bugs.</p>`
     },
     {

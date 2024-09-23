@@ -46,6 +46,11 @@ export class KnowledgeComponent {
       title: 'NGRX'
     },
     {
+      src: 'assets/icons/knowledge/rxjs.svg',
+      alt: 'Ícone de conhecimento de rxjs',
+      title: 'RxJs'
+    },
+    {
       src: 'assets/icons/knowledge/git.svg',
       alt: 'Ícone de conhecimento de git',
       title: 'Git'
